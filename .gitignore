@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+interview_env/
+.venv/
+venv/
+
+# Local editor files
+.vscode/
+
+# Runtime logs and captures
+monitor_logs/
+
+# Local generated interview reports and samples
+*.json
+
+# Archives and local binaries
+*.zip
+
+# OS files
+Thumbs.db
+.DS_Store
